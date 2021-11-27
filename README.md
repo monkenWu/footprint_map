@@ -2,6 +2,8 @@
 
 以 CodeIgniter3 開發之台灣中小學圖鑑系統。
 
+[立即使用](https://footprint.monken.tw/)
+
 ## 簡介
 
 「Footprint－服務足跡」主要利用教育部Open Data作為核心資料，並結合衛服部與內政部之Open Data，開發交流、評分、社群等加值應用並建立起以中小學查詢為主要目的之資訊平台。透過 Footprit 服務足跡，使用者可以快速地搜尋與了解中小學校。
